@@ -1,5 +1,5 @@
 # PPNCKH 
-<space>SGU</space>
-<space>Học và tìm hiểu về môn phương pháp nghiên cứu khoa học</space>
-<space>Thực hành và ứng dụng thực tế</space>
-<space>Báo cáo cuối kỳ và đánh giá kết quả</space>
+SGU<br>
+Học và tìm hiểu về môn phương pháp nghiên cứu khoa học<br>
+Thực hành và ứng dụng thực tế<br>
+Báo cáo cuối kỳ và đánh giá kết quả<br>
